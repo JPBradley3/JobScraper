@@ -1,4 +1,5 @@
-# YOUR PROJECT TITLE
+# CodeCamp Friendly Job Listings Scraper
+
 #### Video Demo:
 
 https://www.youtube.com/watch?v=RBr-AhUBgbk
